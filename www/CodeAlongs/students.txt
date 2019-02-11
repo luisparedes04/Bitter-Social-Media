@@ -1,0 +1,3 @@
+Billy|Fredericton|4.3
+Suzie|Moncton|3.9
+Sally|Woodstock|4.1
